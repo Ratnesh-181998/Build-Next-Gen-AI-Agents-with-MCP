@@ -36,13 +36,13 @@ ________________________________________
 •	Understand MCP compatibility with OpenAI, Anthropic, and Mistral models
 ________________________________________
 
-5. Projects You Will Build
+5. Works You Will Build
 
-• Project 1:Build a context-aware AI assistant using MCP
-• Project 2:Connect an LLM to real-world APIs through MCP
-• Project 3:Create an autonomous RAG system with LangChain and MCP
-• Project 4:Develop a multi-agent workflow using CrewAI and MCP
-• Project 5:Deploy an MCP-powered AI system using Docker and GitHub Actions
+• Build a context-aware AI assistant using MCP
+• Connect an LLM to real-world APIs through MCP
+• Create an autonomous RAG system with LangChain and MCP
+• Develop a multi-agent workflow using CrewAI and MCP
+• Deploy an MCP-powered AI system using Docker and GitHub Actions
 ________________________________________
 
 6. Security, Deployment, and Optimization
@@ -104,11 +104,12 @@ Section 6 LangChain MCP Client using LangChain MCP Adapters
 Section 7 MCP Client with Multiple Server Support
 Section 8 MCP Server and Client using SSE
 Section 9 Deploying MCP Server to AWS Cloud Platform
-Section 10 Project Real Time Weather Agent using MCP and MCP Inspector
-Section 11 Project Real Time Job Recommendation System
-Section 12 Project StoryForge Agent
-Section 13 Project Clinisight AI
+Section 10 Real Time Weather Agent using MCP and MCP Inspector
+Section 11 Real Time Job Recommendation System
+Section 12 StoryForge Agent
+Section 13 Clinisight AI
 Section 14 Build Agent with Google Development Kit ADK
+
 
 
 
