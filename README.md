@@ -15,10 +15,10 @@
 ### Section 7 MCP Client with Multiple Server Support
 ### Section 8 MCP Server and Client using SSE
 ### Section 9 Deploying MCP Server to AWS Cloud Platform
-### Section 10 Project Real Time Weather Agent using MCP and MCP Inspector
-### Section 11 Project Real Time Job Recommendation System
-### Section 12 Project StoryForge Agent
-### Section 13 Project Clinisight AI
+### Section 10  Real Time Weather Agent using MCP and MCP Inspector
+### Section 11  Real Time Job Recommendation System
+### Section 12  StoryForge Agent
+### Section 13  Clinisight AI
 ### Section 14 Build Agent with Google Development Kit ADK
 
 ---
